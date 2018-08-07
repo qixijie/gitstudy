@@ -1,3 +1,5 @@
 git  好好学习！！
 git是免费的！！
 git是版本控制系统！！
+
+Git is a distributed version control system.
