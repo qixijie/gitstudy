@@ -10,4 +10,10 @@ Git tracks changes.
 
 分支创建！！
 
+<<<<<<< HEAD
 create a new branch is quick & simple
+=======
+创建一个新的分支把并且简单点的
+>>>>>>> featural
+
+createing a newe branch is quick and simple 
