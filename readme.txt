@@ -9,3 +9,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 分支创建！！
+
+create a new branch is quick & simple
